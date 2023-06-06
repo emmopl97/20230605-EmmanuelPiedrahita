@@ -1,0 +1,42 @@
+352  touch comandos.txt main.js index.html
+  353  pwd
+  354  git init
+  355  git add .
+  356  git status
+  357  git commit -m "commit 01 de emmanuelPiedrahita"
+  358  git branch -M main
+  359  git remote -v
+  360  git remote add originn https://github.com/emmopl97/20230605-EmmanuelPiedrahita.git
+  361  git remote -v
+  362  git push -u origin main
+  363  git push origin main
+  364  git remote -v
+  365  git push originn main
+  366  git branch feature
+  367  git branch
+  368  git checkout feature
+  369  mkdir Hardware Software SeguridadInformática
+  370  touch /Hardware/resumen.txt /Software/resumen.txt /SeguridadInformática/resumen.txt
+  371  touch Hardware/resumen.txt
+  372  touch Software/resumen.txt
+  373  touch SeguridadInformática/resumen.txt
+  374  git status
+  375  git add -A
+  376  git status
+  377  git commit -m "commit 02 de emmanuelPiedrahita"
+  378  git status
+  379  git push origin feature
+  380  git remote -v
+  381  git push originn feature
+  382  git checkout main
+  383  mv main.js resumenHardware.txt
+  384  git checkout feature
+  385  git checkout feature
+  386  git checkout main
+  387  mv index.html resumenSoftware.txt
+  388  vim resumenSoftware.txt
+  389  vim resumenHardware.txt
+  390  git history
+  391  Function Key 7
+  392  history
+

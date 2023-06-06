@@ -1,0 +1,5 @@
+Listar 3 ejemplos de software:
+1. software para aplicaciones: Hoja de cálculo excel
+2. software para programación: CMD
+3. software de sistema operativo: Windows
+
